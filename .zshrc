@@ -20,11 +20,6 @@ alias l="eza"
 alias la="eza -l"
 alias nf="neofetch"
 
-# Plugins
-source ~/.zsh//zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
-# Nvim
-# export PATH=$PATH:~/.local/share/nvim/mason/bin
-
 # Startup
 nf
+source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
